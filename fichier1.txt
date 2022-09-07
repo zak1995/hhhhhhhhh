@@ -1,0 +1,1 @@
+To generate an SSH key on your Linux server run the command ssh-keygen . The command can take flags if you would like to customize the type of key that is generated as well as the signing algorithms used to generate the key. This example generates a standard 2048-bit RSA key without a passphrase.
